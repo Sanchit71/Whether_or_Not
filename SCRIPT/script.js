@@ -1,5 +1,5 @@
 // API KEY AND OPENWEATHER URL 
-const apiKey = "869de0f81d33914bddbbba5aa7b02780"; // PUT YOUR KEY
+const apiKey = "API KEY"; // PUT YOUR KEY
 const apiurl = "https://api.openweathermap.org/data/2.5/weather?units=metric&q=";
 
 // SELECTING THE INPUT QUERY
