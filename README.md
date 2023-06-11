@@ -11,3 +11,5 @@ Go to OpenWeatherMap Website and generate a API Key and then alter in script.js 
 #### 3 - Run the Live Server
 
 ## Demo
+![Mumbai Weather](https://github.com/Sanchit71/Whether_or_Not/assets/102990660/6fc556ac-85cb-413a-a5b0-23377b7763dd)
+![Sample](https://github.com/Sanchit71/Whether_or_Not/assets/102990660/c9f8e270-55a2-4c9e-bd52-aa5782ca7382)
