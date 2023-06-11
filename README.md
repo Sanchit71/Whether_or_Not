@@ -1,6 +1,6 @@
 # Whether_or_Not
 ## Introduction
-It is a weather forecasting website that retrieves data via the "OpenWeatherMap" API before displaying it. The website's background is dynamic, meaning it varies as the location and the type of weather change.
+It is a weather forecasting website that retrieves data via the "OpenWeatherMap" API before displaying it. The website's background is dynamic, meaning it varies as the location and the type of weather change. It also shows the current time and day of the location.
 
 ## How to Use
 #### 1 - Clone the Repository
