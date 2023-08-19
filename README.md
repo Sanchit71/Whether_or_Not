@@ -7,9 +7,9 @@ It is a weather forecasting website that retrieves data via the "OpenWeatherMap"
 #### 2 - Update the OpenWeatherMap APIKey
 You must change the OpenWeatherMap APIKey in script.js in order to utilise this project.
 
-Go to OpenWeatherMap Website and generate a API Key and then alter in script.js by pasting it.
+You can go to OpenWeatherMap Website and create a API Key and then change in script.js by pasting it.
 #### 3 - Run the Live Server
 
 ## Demo
-![Mumbai Weather](https://github.com/Sanchit71/Whether_or_Not/assets/102990660/6fc556ac-85cb-413a-a5b0-23377b7763dd)
-![Sample](https://github.com/Sanchit71/Whether_or_Not/assets/102990660/c9f8e270-55a2-4c9e-bd52-aa5782ca7382)
+![Mumbai Weather](![image](https://github.com/Sanchit71/Whether_or_Not/assets/102990660/c268aa53-6f92-4866-8769-f2924025e036))
+![Sample](![image](https://github.com/Sanchit71/Whether_or_Not/assets/102990660/423fe692-9729-4c4d-99d7-dcb9a3018505))
